@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    min-height:100vh;
+    background: linear-gradient(to right, hsla(331, 98%, 49%, 0.659), #f8027972);
+}
+.container{
+max-width:1200px;
+width:100%;
+justify-content: center;
+}
+.card-container{
+    max-width:1200px;
+    display:flex;
+    flex:wrap;
+
+}
