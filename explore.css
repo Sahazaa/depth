@@ -40,6 +40,7 @@ margin: 0 auto;
 .sum{
     display:flex;
     flex-direction: row;
+    gap:0;
     
     
 
@@ -66,11 +67,12 @@ margin: 0 auto;
     flex-direction:column;
     min-height:280px;
     border-radius:15px;
-    border:1px solid grey;
+    border:0.5px solid grey;
     max-width:380px;
      padding:10px;
     box-shadow:0px 4 px 4px dark;
     background:rgba(255, 192, 203, 0.186);
+    box-shadow: 0px 1px 2px black;
     
 }
 
