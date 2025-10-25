@@ -13,7 +13,7 @@
     height:5vh;
     padding-top:10px;
     padding-bottom:10px;
-    margin-left:150px;
+    margin-left:50px;
     display:flex;
     gap:20px;
     flex-direction: row;
@@ -32,20 +32,24 @@ svg:hover{
 
 .video{
 margin: 0 auto;
-border: 1px solid grey;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
 display: flex;
 justify-content: center;
+ border-radius: 20px;
 }
 iframe{
-    border-radius: 10px;
-    margin: 0 auto;
+    
     cursor:pointer;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
 }
 .p{
      height:5vh;
     padding-top:20px;
     padding-bottom:10px;
-    margin-left:150px;
+    margin-left:50px;
 }
 .p:hover{
     background-color:rgb(245, 245, 245);
@@ -54,7 +58,7 @@ iframe{
      height:5vh;
     padding-top:20px;
     padding-bottom:10px;
-    margin-left:150px;
+    margin-left:50px;
     color:rgb(210, 75, 210);
      background-color:rgb(245, 245, 245);
 }
