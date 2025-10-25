@@ -10,6 +10,7 @@
     padding:30px;
     margin-top:30px;
     margin-bottom:30px;
+    max-width:1200px;
 }
 .card{
     border:2px solid black;
@@ -22,6 +23,11 @@
     margin: 0 auto;
     margin-top:5px;
     margin-bottom:5px;
+     border:1px solid grey;
+    
+}
+.card:hover{
+    cursor:pointer
 }
 .card::before {
             content: '';
