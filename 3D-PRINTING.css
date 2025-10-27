@@ -86,3 +86,14 @@ iframe{
     gap:5px;
     padding-top:10px;
 }
+.pink{
+    font-weight:bold;
+    color:salmon;
+    text-decoration:none;
+    font-size:x-large;
+
+}
+#pink:hover{
+    color:rgb(255, 0, 128);
+    border-bottom: 2px solid rgb(255, 0, 128);
+}
