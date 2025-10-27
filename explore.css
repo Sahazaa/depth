@@ -98,3 +98,7 @@ cursor: pointer;
     border-radius:15px;
    
 }
+.presentation{
+    display:flex;
+    flex-direction: column;
+}
