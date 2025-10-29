@@ -93,9 +93,13 @@ iframe{
     font-size:x-large;
     border-bottom: 2px solid rgb(226, 67, 50);
     padding:20px;
+    text-align:center;
 
 }
 #pink:hover{
     color:rgb(255, 0, 128);
     border-bottom: 2px solid rgb(255, 0, 128);
+}
+.content{
+    padding:40px;
 }
